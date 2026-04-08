@@ -147,6 +147,3 @@ order_item_options → id, order_item_id, attribute_option_id, attribute_name, o
 
 ---
 
-## 📄 License
-
-MIT — free to use and modify.
